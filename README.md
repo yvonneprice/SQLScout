@@ -1,0 +1,2 @@
+# SQLScout
+SQLScout Issue Tracker
